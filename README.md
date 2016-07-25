@@ -1,5 +1,5 @@
 # HighlightForMaple
-Files for the Maple programming language for the Maple programming language for Notepad++ and UltraEdit UEStudio:
+Files for the Maple programming language for the Maple programming language for Notepad++ and UltraEdit Studio:
 - Syntax Definitions (xml file -> notepad++, uex file -> UltraEdit Studio)
 
 
@@ -11,7 +11,7 @@ Installation instructions:
 
 **中文**
 
-设置步骤：
+设置步骤： 
 
 语言(L)-> 自定义语言格式 -> 导入 -> 选择*.xml
 
