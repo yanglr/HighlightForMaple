@@ -1,2 +1,2 @@
 # HighlightForMaple
-Syntax highlighting definition files for the Maple programming language for Notepad++ .
+Syntax highlighting definition files for the Maple programming language for Notepad++ and UltraEdit UEStudio.
