@@ -17,3 +17,11 @@ Installation instructions:
 
 
 然后可以通过修改"样式"来修改代码正文、关键字、注释等的字体设置。  
+
+<br>
+
+Welcome to visit the author's personal blog: [www.geekzl.com](https://www.geekzl.com).
+
+**Chinese:**
+
+欢迎访问作者的个人技术博客: [极客中心](https://www.geekzl.com).
